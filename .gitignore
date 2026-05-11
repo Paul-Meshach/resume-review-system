@@ -1,0 +1,74 @@
+# ─── Python / Backend ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment secrets — NEVER COMMIT
+.env
+.env.local
+.env.production
+
+# Upload storage — files uploaded by users
+backend/uploads/
+uploads/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# PyCharm
+.idea/
+**/.idea/
+
+# ─── Node / Frontend ────────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+frontend/build/
+dist/
+
+# Cache
+.cache/
+.parcel-cache/
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# ─── OS Generated ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# ─── Testing ────────────────────────────────────────────────────
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# ─── Misc ────────────────────────────────────────────────────────
+*.bak
+*.orig
+*.rej
