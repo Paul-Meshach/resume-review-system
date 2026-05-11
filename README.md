@@ -545,7 +545,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👨‍💻 Author
 
-**Paulo Grace Chris**
+**Paul Meshach**
 
 [![GitHub](https://img.shields.io/badge/GitHub-yourhandle-181717?style=flat&logo=github)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
