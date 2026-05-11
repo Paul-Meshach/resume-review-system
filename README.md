@@ -547,8 +547,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **Paul Meshach**
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourhandle-181717?style=flat&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-yourhandle-181717?style=flat&logo=github)](https://github.com/Paul-Meshach)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/paul-meshach-s-8951a3341/)
 
 ---
 
